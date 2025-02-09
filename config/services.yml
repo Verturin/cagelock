@@ -1,0 +1,8 @@
+services:
+    verturin.cagelock.listener:
+        class: verturin\cagelock\event\listener
+        arguments:
+            - '%core.root_path%'
+            - '@template'
+        tags:
+            - { name: event.listener }
