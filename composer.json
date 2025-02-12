@@ -1,12 +1,14 @@
 {
     "name": "verturin/cagelock",
     "type": "phpbb-extension",
+    "homepage": "https://github.com/Verturin/cagelock",
     "version": "0.0.2",
     "time": "2025-02-10",
     "license": "GPL-2.0",
     "authors": [
         {
             "name": "verturin"
+            "role": "Developer"
         }
     ],
     "require": {
