@@ -36,7 +36,7 @@ class cagelock_0_0_1 extends \phpbb\db\migration\migration
 	{
 		return array(
 			// Current version
-			array('config.add', array('cagelock_version', '0.0.1')),
+			array('config.add', array('cagelock_version', '0.0.2')),
 		);
 	}
 }
